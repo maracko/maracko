@@ -13,9 +13,11 @@
 
 - 👨‍💻 All of my projects are available **right here!**
 
-- 💬 Ask me about **any programming topic that is not css**
+- 💬 Ask me about **any programming topic that is not CSS**
 
 - 📫 How to reach me **mario@petricko.dev**
+
+- ✂️ Check out this free URL shortener I made [slimURL](https://slimurl.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
