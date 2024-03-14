@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mario 👋</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maracko&label=Profile%20views&color=0e75b6&style=flat" alt="maracko" /> </p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=maracko&count_private=true&show_icons=true&theme=tokyonight" alt="maracko-stats"/></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maracko&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="maracko-langs"/></p>
